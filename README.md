@@ -1,2 +1,2 @@
 ##### TinDog <br />
-A  tinder clone website for dogs.
+A  tinder clone website for dogs created using bootstrap.
